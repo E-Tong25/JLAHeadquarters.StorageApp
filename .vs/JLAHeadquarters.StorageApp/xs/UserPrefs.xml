@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7AF0ECE4-6899-4DFD-9FA9-E3E6EE9B931C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JLAHeadquarters.StorageApp/Program.cs">
+    <Files>
+      <File FileName="JLAHeadquarters.StorageApp/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JLAHeadquarters.StorageApp" expanded="True">
+            <Node name="JLAHeadquarters.StorageApp" expanded="True">
+              <Node name="Entities" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JLAHeadquarters.StorageApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

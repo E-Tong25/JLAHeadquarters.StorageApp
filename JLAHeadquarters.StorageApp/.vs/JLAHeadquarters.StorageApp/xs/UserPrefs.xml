@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{6F1403EB-AAB3-46B7-BF9E-B49889175E73}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.JLAHeadquarters.StorageApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Entities/IEntity.cs">
+    <Files>
+      <File FileName="Program.cs" Line="26" Column="45" />
+      <File FileName="Repositories/SqlRepository.cs" />
+      <File FileName="Entities/Hero.cs" Line="1" Column="1" />
+      <File FileName="Entities/IEntity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JLAHeadquarters.StorageApp" expanded="True">
+            <Node name="JLAHeadquarters.StorageApp" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="EntityBase.cs" selected="True" />
+              </Node>
+              <Node name="Repositories" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
